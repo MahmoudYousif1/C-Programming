@@ -1,0 +1,6 @@
+a.txt
+batchfile
+bin
+makefile
+manual
+src
